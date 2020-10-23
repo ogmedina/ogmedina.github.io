@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.containerbackground{
+    background-color: whitesmoke;
+}
+
+.portimage{
+    margin-top: 24px;
+    vertical-align: middle;
+    width: 100%;
+    padding: 0px;    
+}
+
+
+
+

@@ -1,16 +1,15 @@
-### Hi there 👋
+# Oscar G Medina
 
-<!--
-**ogmedina/ogmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Portfolio
 
-Here are some ideas to get you started:
+### Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! My name is Oscar and this is my GitHub Professional Portfolio. Feel free to look around and get in touch by filling out the information on the contact.html page. Thank you!
+
+-OGM
+
+### Published Site
+
+Here is a link to the deployed page: [Oscar G Medina Portfolio](https://ogmedina.github.io/index.html)
+
+
