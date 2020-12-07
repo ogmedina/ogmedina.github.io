@@ -8,8 +8,7 @@
     background-color: whitesmoke;
 }
 
-.portimage{
-    
+.portimage{    
     vertical-align: middle;
     width: 100%;
     padding: 0px;    
@@ -21,6 +20,7 @@ h1 {
 
 h5 {
     text-decoration: underline;
+    font-weight: bold;
 }
 
 body {
