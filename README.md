@@ -1,6 +1,6 @@
 # Professional Portfolio
 ```
-Live Site: https://ogmedina.github.io/
+Live Site: https://ogmedina.github.io/ 
 ```
 ## Technologies Used
 ### Front-End:
@@ -14,3 +14,4 @@ Hello! My name is Oscar and this is my GitHub Professional Portfolio. Feel free 
 -OGM
 
 ## Screenshots
+![Demo](https://github.com/ogmedina/ogmedina.github.io/blob/main/Images/Oscar's%20Portfolio.gif)
