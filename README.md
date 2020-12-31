@@ -15,4 +15,4 @@ Hello! My name is Oscar and this is my GitHub Professional Portfolio. Feel free 
    * Bootstrap 4
 
 ## Screenshots
-![Demo](https://github.com/ogmedina/ogmedina.github.io/blob/main/Images/Oscar's%20Portfolio.gif)
+![Demo](https://github.com/ogmedina/ogmedina.github.io/blob/main/assets/img/portfolio/portfolio.JPG)
